@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+tqdm==4.67.1
+gensim==4.3.3
+collections
